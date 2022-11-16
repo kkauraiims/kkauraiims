@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkauraiims
-- 👀 I’m interested in epielpsy, EEG and MEG
+- 👀 I’m interested in epilepsy, EEG and MEG
 - 📫 How to reach me kkaur.aiims@gmail.com
 
 <!---
